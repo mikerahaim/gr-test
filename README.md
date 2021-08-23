@@ -1,8 +1,6 @@
 # gr-test
 This is a short description of the gnuradio test module...
 
-<a href="https://zenodo.org/badge/latestdoi/323626297"><img src="https://zenodo.org/badge/323626297.svg" alt="DOI"></a>
-
 
 edit...
 
